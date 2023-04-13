@@ -1,0 +1,30 @@
+{
+  "name": "superherosearch",
+  "version": "1.0.0",
+  "description": "project to practice api rest",
+  "main": "model.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./css/mobile.css -o ./css/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HernanAlvarado12/superheroSearch.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "tailwindcss",
+    "js",
+    "fetch"
+  ],
+  "author": "Hernan Alvarado <hernanvid123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HernanAlvarado12/superheroSearch/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/HernanAlvarado12/superheroSearch#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
